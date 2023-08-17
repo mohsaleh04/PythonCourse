@@ -11,7 +11,7 @@ def counter():
 for j in counter():
 	print(j)
 
-print("Hello World")
+
 #Decorator
 #
 # def say_hello(func):
