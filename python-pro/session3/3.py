@@ -1,17 +1,18 @@
 # Generator
 #
-# def counter():
-# 	i = 1
-# 	while i <= 10:
-# 		yield i
-# 		print(i)
-# 		i += 1
-#
-#
-# for j in counter():
-# 	print(j)
+def counter():
+	i = 1
+	while i <= 10:
+		yield i
+		print(i)
+		i += 1
 
-# Decorator
+
+for j in counter():
+	print(j)
+
+print("Hello World")
+#Decorator
 #
 # def say_hello(func):
 # 	def wrapper(*args):
