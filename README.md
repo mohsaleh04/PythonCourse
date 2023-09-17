@@ -5,7 +5,7 @@
 Python is a programming language that lets you work quickly and integrate systems more effectively.
 
 ## Installation
-Use your github account to clone or fork this repo for your own use.
+You can use your GitHub account to clone or fork this repo for your own use.
 
 [Click Here to Open our Website](https://saltech.ir)
 
